@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Phuc Nguyen (Henry)<br>🚀 Full Stack Developer with a passion for bridging design and functionality<br>🔭 I’m currently working on:<br>- LLMs & AI: LangChain, Replicate API, Hugging Face, OpenAI<br>- Cloud: AWS, GCP, Docker, Kubernetes🌱 I’m currently learning<br>📚 Key Focus Areas:<br>- Large Language Models (LLMs)<br>- Generative AI & Computer Vision<br>- Cloud Infrastructure & Scalability<br>- MLOps & AI Pipeline Development<br>⚡ Fun Facts:<br>- My GPU is my space heater<br>- I debug with print statements and I'm not ashamed
+👋 Hello, I'm Phuc Nguyen (Henry)<br>🚀 Full Stack Developer with a passion for bridging design and functionality<br>🔭 I’m currently working on:<br>- LLMs & AI: LangChain, Replicate API, Hugging Face, OpenAI<br>- Cloud: AWS, GCP, Docker, Kubernetes<br>📚 Key Focus Areas:<br>- Large Language Models (LLMs)<br>- Generative AI & Computer Vision<br>- Cloud Infrastructure & Scalability<br>- MLOps & AI Pipeline Development<br>⚡ Fun Facts:<br>- My GPU is my space heater<br>- I debug with print statements and I'm not ashamed
 
 
 ## 🌐 Socials:
